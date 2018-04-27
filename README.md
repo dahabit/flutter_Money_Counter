@@ -1,6 +1,6 @@
-# my_bank_app
+# My Bank Balance
 
-A new Flutter project.
+Flutter project that give example how to use State Full widget
 
 ## Getting Started
 
